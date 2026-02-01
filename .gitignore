@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Capacitor / Android
+www/
+android/app/build/
+android/.gradle/
+android/local.properties
+android/captures/
+android/bin/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+*.log
+.vscode/
+.idea/
